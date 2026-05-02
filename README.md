@@ -1,5 +1,5 @@
 <h1 align="center"> Oi, Eu Sou o Leal 👋</h1>
-<h3 align="center"> Estou cursando CC e atualmente me envolvendo com backend</h3>
+<h3 align="center"> Estou cursando CC e atualmente me desenvolvendo no backend</h3>
 
 <div align="center">
 
